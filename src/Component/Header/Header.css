@@ -1,0 +1,19 @@
+.header a {
+    margin-left: 20px;
+    margin-top: 10px;
+    text-decoration: none;
+    border: 1px solid gray;
+    border: none;
+    background-color: darksalmon;
+    color: white;
+    font-weight: 600;
+    padding: 15px;
+}
+
+.header a:hover {
+    background-color: aqua;
+}
+
+.header {
+    margin-top: 20px;
+}
